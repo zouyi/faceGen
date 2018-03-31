@@ -1,0 +1,32 @@
+.slider {
+    
+    width:50px;
+}
+
+#rangeButton {
+    
+    
+}
+
+#numButton {
+    color:white;
+    background-color: black;
+}
+
+#randomButton {
+    color:red;
+    background-color: pink;
+}
+
+#plusButton {
+    color:aquamarine;
+    background-color:cadetblue;
+
+}
+
+.vl {
+    margin-left:5px;
+     border-left: 2px solid green;
+    height: 10px;
+    display:inline;
+}
